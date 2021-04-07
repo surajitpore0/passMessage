@@ -6,6 +6,7 @@
 
 ## Overview 👀
 
-<img scr="./img/home.png">
-- A simple pass message and show the message web app
-- Fully responsive site
+<img scr="img/home.png">
+
+-   A simple pass message and show the message web app
+-   Fully responsive site
