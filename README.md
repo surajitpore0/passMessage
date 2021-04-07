@@ -6,9 +6,7 @@
 
 ## Overview 👀
 
-<img scr="img/home.png" >
-
-<img scr="./img/home.png?raw=true" >
+![web app](./img/home.png)
 
 -   A simple pass message and show the message web app
 -   Fully responsive site
